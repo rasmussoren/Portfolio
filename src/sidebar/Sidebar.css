@@ -1,0 +1,66 @@
+/* Sidebar.css */
+.sidebar {
+    width: 10%;
+    background-color: white;
+    color: #4A5568; /* gray.800 */
+    height: 100vh;
+    padding: 16px;
+    position: fixed;
+    border-right: 1px solid #E2E8F0;
+}
+
+.sidebar-header {
+    font-size: 1.25rem; /* lg font size */
+    font-weight: bold;
+    margin-bottom: 24px;
+    padding-left: 12px;
+}
+
+.sidebar-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.section-header {
+    font-size: 0.875rem; /* sm font size */
+    font-weight: bold;
+    color: #A0AEC0; /* gray.500 */
+    margin-top: 24px;
+    padding-left: 12px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-weight: 500; /* medium font weight */
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.nav-item-active {
+    background-color: #3182CE; /* blue.500 */
+    color: white;
+    border-radius: 100px;
+}
+
+.nav-item-inactive {
+    color: #4A5568; /* gray.700 */
+}
+
+.icon {
+    height: 1.25rem; /* boxSize equivalent */
+    width: 1.25rem;
+    margin-right: 12px;
+}
+
+.icon-active {
+    color: white;
+}
+
+.icon-inactive {
+    color: #A0AEC0; /* gray.500 */
+}
