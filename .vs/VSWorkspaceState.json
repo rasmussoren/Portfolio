@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\config",
-    "\\src\\dashboard",
-    "\\src\\features",
-    "\\src\\features\\counter",
-    "\\src\\features\\quotes",
-    "\\src\\features\\tableList",
-    "\\src\\sidebar",
-    "\\src\\utils"
+    ""
   ],
-  "SelectedNode": "\\src\\features\\tableList\\TableList.tsx",
   "PreviewInSolutionExplorer": false
 }

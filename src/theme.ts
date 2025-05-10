@@ -13,11 +13,16 @@ const theme = createTheme({
     },
     typography: {
         fontFamily: 'Roboto, Arial, sans-serif', // Customize your font
+        h1: {
+            fontSize: 36,
+        },
+        h2: {
+            fontSize: 28,
 
-        h3 : {
-                  fontSize: 16, 
-
-    }
+        },
+        h3: {
+            fontSize: 24,
+        },
     },
 
     // Add more theme customizations if needed

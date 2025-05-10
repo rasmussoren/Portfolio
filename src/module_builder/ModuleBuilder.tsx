@@ -1,12 +1,15 @@
-﻿import './Dashboard.css'; // Import the CSS file
-import { Box, Skeleton, Typography } from '@mui/material';
+import React from 'react';
 import Grid from '@mui/material/Grid';
+import {Box, Typography } from '@mui/material';
+
 import { motion } from 'framer-motion';
 import EnterAnimation from '../animations/EnterAnimation';
+import Skeleton from '@mui/material/Skeleton';
 
-const Dashboard = () => {
+
+const ModuleBuilder = () => {
     return (
-        <Box >
+        <Box>
             <motion.div>
                 <EnterAnimation>
                     <Grid container>
@@ -19,12 +22,12 @@ const Dashboard = () => {
                             <Typography variant="h2">
                                 test</Typography>
                         </Grid>
-
                     </Grid>
                 </EnterAnimation>
             </motion.div>
         </Box>
     );
-};
+}
 
-export default Dashboard;
+
+export default ModuleBuilder;

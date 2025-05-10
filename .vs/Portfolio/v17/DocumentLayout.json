@@ -3,24 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Soren\\source\\repos\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\tableList\\TableList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\dashboard\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\dashboard\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\selectionSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\tableList\\selectionSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\animations\\EnterAnimation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\animations\\EnterAnimation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\Sidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sidebar\\Sidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\base\\AppRouter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\base\\AppRouter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\selectionSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sidebar\\selectionSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\base\\Layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\base\\Layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\navigationSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sidebar\\navigationSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\tableList\\TableList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\counter\\Counter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\counter\\Counter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\dashboard\\Dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\dashboard\\Dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\Sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sidebar\\Sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\quotes\\Quotes.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\quotes\\Quotes.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\createAppSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\createAppSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\hooks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\hooks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\quotes\\quotesApiSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\quotes\\quotesApiSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\tableList\\TableList.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\counter\\counterSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\counter\\counterSlice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\store.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\store.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\setupTests.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\setupTests.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\theme.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\theme.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +94,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "selectionSlice.ts",
-              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\selectionSlice.ts",
-              "RelativeDocumentMoniker": "src\\features\\tableList\\selectionSlice.ts",
-              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\selectionSlice.ts",
-              "RelativeToolTip": "src\\features\\tableList\\selectionSlice.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.tsx",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\dashboard\\Dashboard.tsx",
+              "RelativeDocumentMoniker": "src\\dashboard\\Dashboard.tsx",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\dashboard\\Dashboard.tsx",
+              "RelativeToolTip": "src\\dashboard\\Dashboard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-10T09:47:49.983Z",
+              "WhenOpened": "2025-03-17T22:37:23.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\dashboard\\Dashboard.css",
+              "RelativeDocumentMoniker": "src\\dashboard\\Dashboard.css",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\dashboard\\Dashboard.css",
+              "RelativeToolTip": "src\\dashboard\\Dashboard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-17T22:37:16.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sidebar.css",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\Sidebar.css",
+              "RelativeDocumentMoniker": "src\\sidebar\\Sidebar.css",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\Sidebar.css",
+              "RelativeToolTip": "src\\sidebar\\Sidebar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-17T22:32:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnterAnimation.tsx",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\animations\\EnterAnimation.tsx",
+              "RelativeDocumentMoniker": "src\\animations\\EnterAnimation.tsx",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\animations\\EnterAnimation.tsx",
+              "RelativeToolTip": "src\\animations\\EnterAnimation.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T22:14:26.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "createAppSlice.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\createAppSlice.ts",
+              "RelativeDocumentMoniker": "src\\app\\createAppSlice.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\createAppSlice.ts",
+              "RelativeToolTip": "src\\app\\createAppSlice.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T22:13:35.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "hooks.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\hooks.ts",
+              "RelativeDocumentMoniker": "src\\app\\hooks.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\hooks.ts",
+              "RelativeToolTip": "src\\app\\hooks.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T22:13:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quotes.tsx",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\quotes\\Quotes.tsx",
+              "RelativeDocumentMoniker": "src\\features\\quotes\\Quotes.tsx",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\quotes\\Quotes.tsx",
+              "RelativeToolTip": "src\\features\\quotes\\Quotes.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T21:53:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TableList.tsx",
               "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.tsx",
               "RelativeDocumentMoniker": "src\\features\\tableList\\TableList.tsx",
               "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.tsx",
               "RelativeToolTip": "src\\features\\tableList\\TableList.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-10T08:02:48.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T18:43:34.391Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppRouter.tsx",
-              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\base\\AppRouter.tsx",
-              "RelativeDocumentMoniker": "src\\base\\AppRouter.tsx",
-              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\base\\AppRouter.tsx",
-              "RelativeToolTip": "src\\base\\AppRouter.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Title": "selectionSlice.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\selectionSlice.ts",
+              "RelativeDocumentMoniker": "src\\sidebar\\selectionSlice.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\selectionSlice.ts",
+              "RelativeToolTip": "src\\sidebar\\selectionSlice.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-10T08:01:37.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T18:43:31.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Layout.tsx",
-              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\base\\Layout.tsx",
-              "RelativeDocumentMoniker": "src\\base\\Layout.tsx",
-              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\base\\Layout.tsx",
-              "RelativeToolTip": "src\\base\\Layout.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Title": "navigationSlice.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\navigationSlice.ts",
+              "RelativeDocumentMoniker": "src\\sidebar\\navigationSlice.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\navigationSlice.ts",
+              "RelativeToolTip": "src\\sidebar\\navigationSlice.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-10T08:01:16.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T15:44:30.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.tsx",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\counter\\Counter.tsx",
+              "RelativeDocumentMoniker": "src\\features\\counter\\Counter.tsx",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\counter\\Counter.tsx",
+              "RelativeToolTip": "src\\features\\counter\\Counter.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-11T18:40:33.932Z"
             },
             {
               "$type": "Document",
@@ -96,10 +237,117 @@
               "RelativeDocumentMoniker": "src\\sidebar\\Sidebar.tsx",
               "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\sidebar\\Sidebar.tsx",
               "RelativeToolTip": "src\\sidebar\\Sidebar.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-10T08:01:06.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T15:20:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "quotesApiSlice.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\quotes\\quotesApiSlice.ts",
+              "RelativeDocumentMoniker": "src\\features\\quotes\\quotesApiSlice.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\quotes\\quotesApiSlice.ts",
+              "RelativeToolTip": "src\\features\\quotes\\quotesApiSlice.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T21:59:42.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TableList.css",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.css",
+              "RelativeDocumentMoniker": "src\\features\\tableList\\TableList.css",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\tableList\\TableList.css",
+              "RelativeToolTip": "src\\features\\tableList\\TableList.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-17T21:54:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-10T15:42:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "setupTests.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\setupTests.ts",
+              "RelativeDocumentMoniker": "src\\setupTests.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\setupTests.ts",
+              "RelativeToolTip": "src\\setupTests.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-10T15:42:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-10T15:42:38.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "logo.svg",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\logo.svg",
+              "RelativeDocumentMoniker": "src\\logo.svg",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\logo.svg",
+              "RelativeToolTip": "src\\logo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-10T15:42:42.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "store.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\store.ts",
+              "RelativeDocumentMoniker": "src\\app\\store.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\app\\store.ts",
+              "RelativeToolTip": "src\\app\\store.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-10T15:47:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "theme.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\theme.ts",
+              "RelativeDocumentMoniker": "src\\theme.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\theme.ts",
+              "RelativeToolTip": "src\\theme.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-10T15:20:06.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "counterSlice.ts",
+              "DocumentMoniker": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\counter\\counterSlice.ts",
+              "RelativeDocumentMoniker": "src\\features\\counter\\counterSlice.ts",
+              "ToolTip": "C:\\Users\\Soren\\source\\repos\\Portfolio\\src\\features\\counter\\counterSlice.ts",
+              "RelativeToolTip": "src\\features\\counter\\counterSlice.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-11T18:40:36.038Z"
             }
           ]
         }

@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Ma
 import Layout from './Layout'; 
 import Tables from '../features/tableList/TableList'; 
 import Dashboard from '../dashboard/Dashboard';
+import { ProductList } from '../frame_product_review/ProductList'; // Import your ProductReview component
 
 const AppRouter = () => {
     return (
@@ -11,7 +12,7 @@ const AppRouter = () => {
                     <Route index element={<Dashboard />} />
                     <Route path="tables" element={<Tables />} />
                     <Route path="pricing-tool" element={<Tables />} />
-                    {/*<Route path="product-review" element={<ProductReview filterType="review" />} />*/}
+                    <Route path="product-review" element={<ProductList />} />
                 </Route>
             </Routes>
         </Router>

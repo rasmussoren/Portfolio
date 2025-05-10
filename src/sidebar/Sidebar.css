@@ -1,7 +1,7 @@
 /* Sidebar.css */
 .sidebar {
     width: 10%;
-    background-color: white;
+    background-color: #333333;
     color: #4A5568; /* gray.800 */
     height: 100vh;
     padding: 16px;
@@ -26,7 +26,7 @@
 .section-header {
     font-size: 0.875rem; /* sm font size */
     font-weight: bold;
-    color: #A0AEC0; /* gray.500 */
+    color: #FDFDFD; /* gray.500 */
     margin-top: 24px;
     padding-left: 12px;
 }
@@ -36,20 +36,12 @@
     align-items: center;
     padding: 12px 16px;
     border-radius: 4px;
+    margin-top: 16px;
     font-weight: 500; /* medium font weight */
     transition: 0.3s;
     cursor: pointer;
 }
 
-.nav-item-active {
-    background-color: #3182CE; /* blue.500 */
-    color: white;
-    border-radius: 100px;
-}
-
-.nav-item-inactive {
-    color: #4A5568; /* gray.700 */
-}
 
 .icon {
     height: 1.25rem; /* boxSize equivalent */
@@ -58,9 +50,9 @@
 }
 
 .icon-active {
-    color: white;
+    background-color: #333333;
 }
 
 .icon-inactive {
-    color: #A0AEC0; /* gray.500 */
+    color: white; /* gray.500 */
 }
