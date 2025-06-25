@@ -1,9 +1,9 @@
 //import { createFetchingSlice } from '../utils/fetchingSlice';
-import { Product } from '../types/Products';
+import { createAppSlice } from '../../app/createAppSlice';
 import { PayloadAction } from '@reduxjs/toolkit';
-import { createAppSlice } from '../app/createAppSlice';
+import { Product } from '../../types/Products';
 
-//export const productApiSlice = createFetchingSlice<Product>('products');
+
 
 export interface ProductState {
     items: Product[];

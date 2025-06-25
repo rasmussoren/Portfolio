@@ -2,7 +2,7 @@
 import { Box, Skeleton, Typography } from '@mui/material';
 import Grid from '@mui/material/Grid';
 import { motion } from 'framer-motion';
-import EnterAnimation from '../animations/EnterAnimation';
+import EnterAnimation from '../../animations/EnterAnimation';
 
 const Dashboard = () => {
     return (

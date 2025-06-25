@@ -2,13 +2,13 @@
 import { Box, Skeleton, Typography } from '@mui/material';
 import Grid from '@mui/material/Grid';
 import { motion } from 'framer-motion';
-import EnterAnimation from '../animations/EnterAnimation';
+import EnterAnimation from '../../animations/EnterAnimation';
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { RootState } from '../app/store';
 import { fetchProductsFailure, fetchProductsStart, fetchProductsSuccess } from './productApiSlice';
-import { Product } from '../types/Products';
-
+import { RootState } from '@reduxjs/toolkit/query';
+import CustomTable from '../../features/tableList/customTable';
+import { Product } from '../../types/Products';
 
 
 export const ProductList = () => {
@@ -42,9 +42,11 @@ export const ProductList = () => {
             {status === 'loading' && <p>Loading products...</p>}
             {status === 'failed' && <p style={{ color: 'red' }}>Error: {error}</p>}
             {status === 'succeeded' && products.length === 0 && <p>No products found.</p>}
-            {status === 'succeeded' && products.map(p => (
-                <div key={p.id}>{p.name} - ${p.sku}</div>
-            ))}
+            {status === 'succeeded' && 
+                    <CustomTable columns={[]} rows={[products]}>
+                        
+                    </CustomTable>
+            }
         </div>
     );
 };

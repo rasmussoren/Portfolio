@@ -3,7 +3,9 @@ import './TableList.css'; // Import the CSS file
 import { Box, Table, Typography } from '@mui/material';
 import EnterAnimation from '../../animations/EnterAnimation';
 
-const TableList = () => {
+
+
+export const TableList = () => {
     return (
         <Box>
             <Typography variant="h1">
