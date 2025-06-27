@@ -10,6 +10,8 @@ const Setup = () => {
 
     const [username, setUsername] = useState("")
     const [password, setPassword] = useState("")
+    const [databaseUsername, setDatabaseUsername] = useState("")
+    const [databasePassword, setDatabasePassword] = useState("")
 
     const handleUsernameChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         setUsername(event.target.value);
@@ -17,7 +19,12 @@ const Setup = () => {
     const handlePasswordChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         setPassword(event.target.value);
     }
-
+    const handleDatabaseUsernameChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+        setDatabaseUsername(event.target.value);
+    }
+    const handleDatabasePasswordChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+        setDatabasePassword(event.target.value);
+    }
 
     return (
 
@@ -56,6 +63,26 @@ const Setup = () => {
                             helperText="Enter a password for the administrator account">
                         </OutlinedTextField>
 
+                    </Stack>
+
+                    <Stack spacing={2} alignItems='center' sx={{ marginTop: '4rem' }}>
+                        <OutlinedTextField
+                            label="Database username"
+                            value={password}
+                            required
+                            onChange={(e) => handleDatabaseUsernameChange(e)}
+                            type="text"
+                            helperText="Enter the username of the database">
+                        </OutlinedTextField>
+
+                        <OutlinedTextField
+                            label="Database password"
+                            value={password}
+                            required
+                            onChange={(e) => handleDatabasePasswordChange(e)}
+                            type="password"
+                            helperText="Enter the password of the database">
+                        </OutlinedTextField>
 
 
                     </Stack>
