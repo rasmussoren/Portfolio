@@ -8,10 +8,12 @@
     padding: 16px; /* Add padding around content */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Light shadow effect */
     border-radius: 8px; /* Rounded corners */
+    position: relative; /* Relative positioning for child elements */
 }
 
 .sidebar-space {
-    margin-left: 250px; /* Space for the sidebar */
+    position: relative;
+    width: 60%; /* Fixed width for sidebar */
     padding: 24px; /* Padding around content */
     width: 100%; /* Full width */
     background-color: #f7fafc; /* Light gray background */

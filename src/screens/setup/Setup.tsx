@@ -68,7 +68,7 @@ const Setup = () => {
                     <Stack spacing={2} alignItems='center' sx={{ marginTop: '4rem' }}>
                         <OutlinedTextField
                             label="Database username"
-                            value={password}
+                            value={databaseUsername}
                             required
                             onChange={(e) => handleDatabaseUsernameChange(e)}
                             type="text"
@@ -77,7 +77,7 @@ const Setup = () => {
 
                         <OutlinedTextField
                             label="Database password"
-                            value={password}
+                            value={databasePassword}
                             required
                             onChange={(e) => handleDatabasePasswordChange(e)}
                             type="password"

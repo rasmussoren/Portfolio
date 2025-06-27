@@ -1,11 +1,11 @@
 /* Sidebar.css */
 .sidebar {
-    width: 10%;
     background-color: #333333;
     color: #4A5568; /* gray.800 */
+    width: 15%;
     height: 100vh;
     padding: 16px;
-    position: fixed;
+    position: relative;
     border-right: 1px solid #E2E8F0;
 }
 
