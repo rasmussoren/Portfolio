@@ -1,19 +1,10 @@
 import { TextField } from '@mui/material';
 import React from 'react';
+import PropTypes from 'prop-types';
 
 
-interface OutlinedTextFieldProps {
-    label: string;
-    value: string;
-    onChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
-    type?: string;
-    required?: boolean;
-    fullWidth?: boolean;
-    disabled?: boolean;
-    helperText?: string;
-}
 
-const OutlinedTextField: React.FC<OutlinedTextFieldProps> = ({
+const OutlinedTextField =  ({
     label,
     value,
     onChange,
@@ -37,6 +28,26 @@ const OutlinedTextField: React.FC<OutlinedTextFieldProps> = ({
             helperText={helperText}
         />
     );
+};
+
+
+OutlinedTextField.propTypes = {
+    label: PropTypes.string.isRequired,
+    value: PropTypes.string.isRequired,
+    onChange: PropTypes.func.isRequired,
+    type: PropTypes.string,
+    required: PropTypes.bool,
+    fullWidth: PropTypes.bool,
+    disabled: PropTypes.bool,
+    helperText: PropTypes.string
+};
+
+OutlinedTextField.defaultProps = {
+    type: "text",
+    required: false,
+    fullWidth: true,
+    disabled: false,
+    helperText: ""
 };
 
 export default OutlinedTextField;

@@ -1,26 +1,28 @@
-interface filledButtonProps {
-	children: React.ReactNode;
-	onClick: () => void;
-}
-
-const FilledButton: React.FC<filledButtonProps> = ({ children, onClick }) => {
+import React from 'react';
+import PropTypes from 'prop-types';
+import styles from './filledButton.module.css';
 
 
-	return (
-		<button
-			style={{
-				backgroundColor: '#6200ea',
-				color: 'white',
-				border: 'none',
-				padding: '10px 20px',
-				borderRadius: '4px',
-				cursor: 'pointer',
-				fontSize: '16px',
-			}}
-			onClick={onClick}
-		>
-			{children}
-		</button>
-	);
-}
-export default FilledButton;
+
+const FilledButtonRect = ({ onClick, label, disabled, variant }) => {
+    const className = `${styles.filledButton} ${styles[variant]}`;
+    return (
+        <button onClick={onClick} className={className} disabled={disabled}>
+            {label}
+        </button>
+    );
+};
+
+FilledButtonRect.propTypes = {
+    onClick: PropTypes.func,
+    label: PropTypes.node.isRequired,
+    disabled: PropTypes.bool,
+    variant: PropTypes.oneOf(['primary', 'secondary']),
+};
+
+FilledButtonRect.defaultProps = {
+	onClick: () => { },
+    className: '',
+};
+
+export default FilledButtonRect;

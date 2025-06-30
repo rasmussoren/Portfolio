@@ -4,6 +4,7 @@ import { Paper, Stack, Typography } from "@mui/material";
 import OutlinedTextField from "../../components/textfields/outlined_textfield";
 import Grid from '@mui/material/Grid';
 import React, { useState } from "react";
+import FilledButtonRect from "../../components/buttons/filledButton";
 
 
 const Setup = () => {
@@ -84,7 +85,7 @@ const Setup = () => {
                             helperText="Enter the password of the database">
                         </OutlinedTextField>
 
-
+                        <FilledButtonRect variant='primary' label='Enter'></FilledButtonRect>
                     </Stack>
 
                 </Paper >
